@@ -1,3 +1,3 @@
 # Scraping-UNC-Police-Event-Search
-I'm changing the README file
+This Jupyter notebook was written for the purpose of scraping the UNC-Chapel Hill Police Event Search found at this link (https://p2c.police.unc.edu/Summary_Disclaimer.aspx). The data from this scrape was intended for use in a journalistic video about flaws in the Alert Carolina system, used to notify students of crime on campus. The data found by this scrape was not used in the piece because the Event Search yields incomplete information about police reports. The Event Search's main purpose is to help people find their car accident report number, or likewise, and does not show all information needed by the story. 
 
